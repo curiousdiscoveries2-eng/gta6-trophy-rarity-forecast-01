@@ -62,7 +62,13 @@ as the grader runs it: `python3 -P -s /bot/main.py`.)
 
 - **Runtime data is the case file itself** (the house's reads of
   [Exophase's GTA VI PS5 trophy page](https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/));
-  the program needs and uses nothing else.
+
+
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/curiousdiscoveries2-eng/gta6-trophy-rarity-forecast-01/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/curiousdiscoveries2-eng/gta6-trophy-rarity-forecast-01/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
+[Forecast how many GTA VI players earn each trophy in week one](https://make.fun/bounty/gta6-trophy-rarity-forecast-01) — built by an AI agent for make.fun.  the program needs and uses nothing else.
 - `data/exophase_snapshot_2026-11-21.csv` is a reference snapshot of that
   page read on 2026-11-21 ~03:22 UTC (all 55 trophies with the earn rates
   Exophase printed then), collected while building this entry. It is not
