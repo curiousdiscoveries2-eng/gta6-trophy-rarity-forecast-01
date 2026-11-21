@@ -1,0 +1,56 @@
+id,name,description,tier,psn_points,secret,earn_rate_pct_2026-11-21T03:22Z,exophase_rarity_points
+1,Vice Got a Price!,Congratulations! You're a Leonida Legend.,platinum,300,False,0.00,0
+2,Just Like Paradise,Complete Gone Fishing.,bronze,15,True,100.00,76
+3,Paradise Lost,Complete Chapter 1.,bronze,15,True,18.02,405
+4,T**s Ass Drug Money,Complete Chapter 2.,bronze,15,True,3.61,1669
+5,"Vice City, Baby!",Complete Chapter 3.,bronze,15,True,0.07,7190
+6,"Top Of The World, Ma",Complete Chapter 4.,bronze,15,True,0.03,7470
+7,You Gotta Know When to Get Off,Complete the final mission.,gold,90,True,0.03,7470
+8,Trust,Complete Breakfast Run.,bronze,15,True,7.98,857
+9,Break the Bank,Complete The Cartel Heist.,bronze,15,True,0.07,7190
+10,Family Matters,Complete Child's Play.,bronze,15,True,0.03,7470
+11,DWNFALL,Complete Headliners.,bronze,15,True,0.03,7470
+12,Hi-Jacked,Complete VCIA Takedown.,bronze,15,True,0.03,7470
+13,Snow Storm,Complete Operation Savage Glory.,bronze,15,True,0.03,7470
+14,A Long Road,Attain 100% Completion.,gold,90,False,0.00,0
+15,Cunning Stunts,Complete 250 Stunts.,silver,30,False,0.00,0
+16,Master of None,Try each type of activity once.,bronze,15,False,0.01,7617
+17,The Shootist,Earn a gold medal in all Shooting Range challenges.,silver,30,False,0.03,7470
+18,Top Fun,Win a Top Fun Drone Race at every location.,bronze,15,False,0.01,7617
+19,"Earn Cash, Not Kudos",Win 20 different races.,bronze,15,False,0.01,7617
+20,Baited My Tackle,Beat Cal in a fishing challenge.,bronze,15,False,16.73,434
+21,Stick Fiddler,Complete an arcade game.,bronze,15,False,1.84,2709
+22,Road to Rehabilitation,Complete the final mission for Andy.,bronze,15,True,0.02,7543
+23,This Was No Boat Accident,Complete the final mission for Kenton.,bronze,15,True,0.06,7258
+24,The Lone Rider,Complete the final mission for Billy.,bronze,15,True,0.02,7543
+25,Strangers & Freaks,Complete 8 mission strands for strangers across the state of Leonida.,silver,30,False,0.00,0
+26,Supply & Demand,Complete the final mission for Randy.,bronze,15,True,0.01,7617
+27,Spin On This!,Complete the final mission for Tyrone.,bronze,15,True,0.01,7617
+28,Positive Mental Attitude,Meditate at every spot across Leonida.,bronze,15,False,0.01,7617
+29,Fair Game,Hunt a unique animal for Bret.,bronze,15,True,0.01,7617
+30,Don't Touch My Deck,Complete 3 Collectible Card sets.,silver,30,False,0.00,0
+31,You WAiNKer!,WAiNK It at 100 locations.,silver,30,False,0.00,0
+32,One Last Thing,Complete 50 Challenges.,bronze,15,False,0.00,0
+33,Hot Together,Lose a 4 star Wanted Level with your partner and escape the heat.,bronze,15,False,0.65,4663
+34,Retail Therapy,Rob 3 shops back-to-back with your partner without losing your Wanted Level.,bronze,15,False,0.09,7058
+35,Whip It Good,Discover 100 vehicles.,bronze,15,False,3.25,1810
+36,Gunslinger,Take down 5 enemies in a single use of Combat Focus.,bronze,15,False,0.11,6931
+37,Catch Me If You Can,Make an unscheduled departure at VCIA.,bronze,15,True,0.29,5964
+38,Challenging Tank,Kinda hot in these Rhinos.,bronze,15,True,0.24,6205
+39,Sneakthief,Rob a jewelry store without being detected.,bronze,15,False,0.10,6994
+40,Maximum Withdrawal,Rob 5 Bank Vaults and escape.,silver,30,False,0.01,7617
+41,A Classic Blitz Play,Rob an Armored Truck and escape.,bronze,15,False,0.01,7617
+42,The Goodtime State,Explore all of Leonida.,bronze,15,False,0.05,7327
+43,Pest Control,Rob an Illegal Operation belonging to each gang.,bronze,15,False,0.01,7617
+44,In The Beginning…,Enjoy a cocktail with a view on Ocean Beach.,bronze,15,True,0.21,6358
+45,Capital Offense,Smash your way out of a vehicle showroom in classic style.,bronze,15,True,0.02,7543
+46,Let’s Go Bowling,Follow-through at the Kolt & Associates' bowling alley.,bronze,15,True,2.44,2237
+47,Personal Best,A partnership with mass appeal.,bronze,15,True,0.02,7543
+48,Actions Speak Louder,Choices made (for better or worse).,bronze,15,True,0.01,7617
+49,"Bad Luck, I Guess",Second time's the charm.,bronze,15,True,0.01,7617
+50,The Truth Is Out There,What the hell just happened?,bronze,15,True,1.41,3192
+51,Ten Pin,Bowl 'em over with a melee drive-by.,bronze,15,True,0.10,6994
+52,Dime on the Dollar,"Earn $250,000 laundering Marked Bills through your contacts.",bronze,15,False,0.01,7617
+53,Treat Yo Self,"Spend $100,000 across all shops.",bronze,15,False,0.13,6809
+54,Little Boxes,Purchase all garage properties.,bronze,15,False,0.01,7617
+55,On the Spot,Register 10 vehicles to the Scooter Bros app.,bronze,15,False,0.01,7617
